@@ -9,16 +9,28 @@
 
 ---
 
-### 🚀 Projects & Interests
-- 🔭 Working on [NLP Pipeline for EHR](https://github.com/PRASHANT-tech870/NLP-pipeline-for-EHR)  
-- 🌱 Learning **Golang**  
-- 🤝 Looking for help with **DevOps**  
-- 💬 Ask me about:  
-  `Machine Learning`, `NLP`, `FastAPI`, `LeetCode & DSA`, `Generative AI & RAG`, `Chatbots`, `Hackathons`  
-- 👨‍💻 All my projects: [GitHub Portfolio](https://github.com/PRASHANT-tech870)  
-- 📫 Reach me at: **prashantronad870@gmail.com**  
-- 📄 [Resume](https://drive.google.com/file/d/1bVDCNdGWkp-2Rw3yokQ7dBHxEQxg9ClO/view?usp=sharing)
+### 🚀 **Projects & Interests**
+  
+- 🌱 **Currently Learning**: ** Golang**  
+  
+- 💬 **Ask Me About**:  
+  - **Machine Learning & Natural Language Processing**
+  - **Hackathons**
+  - **FastAPI**  
+  - **LeetCode & DSA**  
+  - **Generative AI & RAG**  
+  - **Chatbots**  
+    
+  
+- 👨‍💻 **My Projects**:  
+  Check out my work on GitHub:  
+  [**GitHub Portfolio**](https://github.com/PRASHANT-tech870)  
 
+- 📫 **Let's Connect**:  
+  Reach out to me at: [**prashantronad870@gmail.com**](mailto:prashantronad870@gmail.com)  
+
+- 📄 **Snapshot of My Work**:  
+  Take a look at my [**Resume**](https://drive.google.com/file/d/1bVDCNdGWkp-2Rw3yokQ7dBHxEQxg9ClO/view?usp=sharing)
 ---
 
 ### 🌐 Connect with Me
@@ -33,28 +45,34 @@
 
 <!-- ✅ LeetCode Profile Embed -->
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/tech-870?ext=contest" alt="LeetCode Stats" />
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/tech-870?theme=catppuccinMocha&font=Andada%20Pro&ext=heatmap)
 </div>
+
+
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin-right: 20px;"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="margin-right: 10px;"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin-right: 10px;"/></a>
 </p>
+
+
+
 
 ---
 
