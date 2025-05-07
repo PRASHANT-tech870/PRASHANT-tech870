@@ -11,7 +11,7 @@
 
 ### 🚀 **Projects & Interests**
   
-- 🌱 **Currently Learning**: ** Golang**  
+- 🌱 **Currently Learning**: **Golang**  
   
 - 💬 **Ask Me About**:  
   - **Machine Learning & Natural Language Processing**
