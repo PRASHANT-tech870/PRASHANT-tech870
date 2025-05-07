@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant Ronad</h1>
+<h1 align="center">Hi 👋, I'm Prashant </h1>
 <h3 align="center">
   A developer driven by ML, NLP, and backend engineering with FastAPI — blending deep learning with clean APIs and sharp DSA skills.
 </h3>
